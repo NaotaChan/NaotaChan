@@ -35,7 +35,7 @@
 <h3>Web Development</h3>
 <ul>
   <li>
-    <b><a href="https://allavoltadicomo.filolario.it/">Alla Volta di Como</a></b><br>
+    <b><a href="https://allavoltadicomo.filolario.it/">Alla Volta di Como</a></b> (SSS'AA Project)<br>
     <i>Role:</i> Full-Stack Developer<br>
     <i>Description:</i> A shipped Web-AR urban game developed by SSSAA and Università dell'Insubria in collaboration with the City of Como. Players explore the city through a virtual treasure hunt, solving clues and meeting historical figures in augmented reality.
   </li>
